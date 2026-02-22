@@ -7,28 +7,28 @@ const testimonials = [
   {
     quote: "Seru banget bisa dapat pertanyaan anonym dari temen-temen!",
     name: "Anonim",
-    title: "Pengguna Takok OPO?",
+    title: "Pengguna Kazzah NGL",
   },
   {
     quote:
       "Akhirnya ada platform anonym yang simple dan nggak ribet daftar.",
     name: "Anonim",
-    title: "Pengguna Takok OPO?",
+    title: "Pengguna Kazzah NGL",
   },
   {
     quote: "Notifikasi WA-nya langsung masuk, responsif banget!",
     name: "Anonim",
-    title: "Pengguna Takok OPO?",
+    title: "Pengguna Kazzah NGL",
   },
   {
     quote: "Desainnya aesthetic, suka banget tampilannya! Dark mode nya keren.",
     name: "Anonim",
-    title: "Pengguna Takok OPO?",
+    title: "Pengguna Kazzah NGL",
   },
   {
-    quote: "YIlziteam emang selalu bikin project yang keren-keren. Top!",
+    quote: "KazzahOfc emang selalu bikin project yang keren-keren. Top!",
     name: "Anonim",
-    title: "Pengguna Takok OPO?",
+    title: "Pengguna Kazzah NGL",
   },
 ];
 
@@ -46,7 +46,7 @@ export default function InfiniteTestimonials() {
           Kata Pengguna
         </h2>
         <p className="text-neutral-500 text-base max-w-md mx-auto leading-relaxed">
-          Testimoni dari pengguna setia Takok OPO?
+          Testimoni dari pengguna setia Kazzah NGL
         </p>
       </motion.div>
       <div className="flex items-center justify-center">
