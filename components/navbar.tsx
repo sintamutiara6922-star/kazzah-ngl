@@ -31,7 +31,7 @@ const links = [
     icon: (
       <IconBrandTelegram className="h-full w-full text-neutral-300" />
     ),
-    href: "https://t.me/yilziteam",
+    href: "https://t.me/KazzaOfficial",
   },
   {
     title: "WhatsApp",
@@ -45,7 +45,7 @@ const links = [
     icon: (
       <IconHeart className="h-full w-full text-neutral-300" />
     ),
-    href: "https://paymenthub.yilzicode.com",
+    href: "https://kazzah-payment.vercel.app",
   },
   {
     title: "Portofolio",
@@ -59,7 +59,7 @@ const links = [
     icon: (
       <IconBrandGithub className="h-full w-full text-neutral-300" />
     ),
-    href: "https://github.com/YilziiHCT",
+    href: "https://github.com/KingJack2109",
   },
 ];
 
