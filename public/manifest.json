@@ -1,0 +1,55 @@
+{
+  "name": "Kazzah NGL — Platform Pertanyaan Anonim",
+  "short_name": "Kazzah NGL",
+  "description": "Platform tanya jawab anonim paling seru se-Indonesia. 100% gratis, aman, dan mudah digunakan.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "id",
+  "dir": "ltr",
+  "categories": ["social", "utilities"],
+  "icons": [
+    {
+      "src": "/images/favicon.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/macbook-screen.webp",
+      "sizes": "1920x1080",
+      "type": "image/webp",
+      "form_factor": "wide"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Kirim Pertanyaan",
+      "short_name": "Tanya",
+      "description": "Kirim pertanyaan anonim",
+      "url": "/#questions",
+      "icons": [
+        {
+          "src": "/icon.svg",
+          "sizes": "any"
+        }
+      ]
+    }
+  ]
+}
