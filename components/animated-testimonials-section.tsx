@@ -8,7 +8,7 @@ const testimonials = [
     quote:
       "Platform ini seru banget! Aku bisa tanya apa aja tanpa ketahuan. Desainnya juga cakep, beda dari yang lain.",
     name: "Pengguna Anonim",
-    designation: "Takok OPO? User",
+    designation: "Kazzah NGL User",
     src: "/images/testimonial-1.webp",
   },
   {
@@ -27,7 +27,7 @@ const testimonials = [
   },
   {
     quote:
-      "YIlziteam emang selalu bikin project keren. Ini yang paling sering aku pakai buat Q&A di Instagram story.",
+      "KazzahOfc emang selalu bikin project keren. Ini yang paling sering aku pakai buat Q&A di Instagram story.",
     name: "Developer Friend",
     designation: "Tech Enthusiast",
     src: "/images/testimonial-4.webp",
@@ -48,7 +48,7 @@ export default function AnimatedTestimonialsSection() {
           Apa Kata Mereka?
         </h2>
         <p className="text-neutral-500 text-base max-w-md mx-auto leading-relaxed">
-          Cerita dari pengguna yang sudah merasakan serunya Takok OPO?
+          Cerita dari pengguna yang sudah merasakan serunya Kazzah NGL
         </p>
       </motion.div>
       <AnimatedTestimonials testimonials={testimonials} autoplay />
