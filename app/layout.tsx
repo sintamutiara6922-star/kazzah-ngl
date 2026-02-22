@@ -9,16 +9,16 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://takokopo.yilzicode.com"),
+  metadataBase: new URL("https://kazzah-ngl.vercel.app"),
   title: {
-    default: "Takok OPO? — Platform Pertanyaan Anonim #1 di Indonesia",
-    template: "%s | Takok OPO?"
+    default: "Kazzah NGL — Platform Pertanyaan Anonim #1 di Indonesia",
+    template: "%s | Kazzah NGL"
   },
   description:
-    "Platform tanya jawab anonim paling seru se-Indonesia. Kirim pertanyaan rahasia ke siapapun tanpa ketahuan identitasmu. 100% gratis, aman, dan mudah digunakan. Dibuat oleh YIlziteam.",
+    "Platform tanya jawab anonim paling seru se-Indonesia. Kirim pertanyaan rahasia ke siapapun tanpa ketahuan identitasmu. 100% gratis, aman, dan mudah digunakan. Dibuat oleh Kazzahofc.",
   keywords: [
-    "takok opo",
-    "takokopo",
+    "Kazzah NGL",
+    "KazzahNGL",
     "anonymous question",
     "pertanyaan anonim",
     "pertanyaan rahasia",
@@ -27,8 +27,8 @@ export const metadata: Metadata = {
     "kirim pesan anonim",
     "question box",
     "sarahah Indonesia",
-    "YIlziteam",
-    "yilzicode",
+    "Kazzah",
+    "KazzahOfc",
     "platform anonim",
     "tanya jawab anonim",
     "anonymous messaging",
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
         url: "/images/og-image.webp",
         width: 1200,
         height: 630,
-        alt: "Takok OPO? — Platform Pertanyaan Anonim Terbaik",
+        alt: "Kazzah NGL — Platform Pertanyaan Anonim Terbaik",
         type: "image/webp",
       },
     ],
@@ -144,5 +144,4 @@ export default function RootLayout({
       </body>
     </html>
   )
-  }
-      
+}
