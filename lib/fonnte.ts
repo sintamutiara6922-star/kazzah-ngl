@@ -18,7 +18,7 @@ ${message}
 
 ${new Date().toLocaleString("id-ID", { timeZone: "Asia/Jakarta" })}
 
-~ Takok OPO? by YIlziteam ~`.trim();
+~ Kazzah NGL by KazzahOfc ~`.trim();
 
   try {
     console.log("[Yilzi] Sending WhatsApp notification to:", target);
