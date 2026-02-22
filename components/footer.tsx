@@ -12,32 +12,32 @@ export default function Footer() {
       className="relative text-center py-12 pb-28 text-neutral-500 text-sm border-t border-white/[0.06]"
     >
       <p className="text-neutral-400">
-        {"© 2024 "}
-        <strong className="text-white font-semibold">Takok OPO?</strong>
+        {"© 2023 "}
+        <strong className="text-white font-semibold">Kazzah NGL</strong>
         {" — Made with "}
         <span className="text-cyan-400">{"<3"}</span>
         {" by "}
         <a
-          href="https://yilzicode.com"
+          href="https://kazzah.com"
           className="text-cyan-400 hover:text-cyan-300 transition-colors"
           target="_blank"
           rel="noopener noreferrer"
         >
-          YIlziteam
+          KazzahOfc
         </a>
       </p>
       <p className="mt-3 flex items-center justify-center gap-4 text-neutral-600">
         <a
-          href="https://yilzicode.com"
+          href="https://kazzah.com"
           className="hover:text-cyan-400 transition-colors duration-300"
           target="_blank"
           rel="noopener noreferrer"
         >
-          yilzicode.com
+          Kazzah.com
         </a>
         <span className="text-neutral-800">|</span>
         <a
-          href="https://paymenthub.yilzicode.com"
+          href="https://kazzah-payment.vercel.app"
           className="hover:text-cyan-400 transition-colors duration-300"
           target="_blank"
           rel="noopener noreferrer"
