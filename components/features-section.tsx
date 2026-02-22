@@ -37,8 +37,8 @@ const features = [
   {
     title: "Open Source",
     description:
-      "Kode sumber terbuka di GitHub. Dibuat dengan cinta oleh YilziiHCT.",
-    link: "https://github.com/YilziiHCT",
+      "Kode sumber terbuka di GitHub. Dibuat dengan cinta oleh Kazzah.",
+    link: "https://github.com/KingJack2109",
   },
 ];
 
