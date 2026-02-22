@@ -7,8 +7,8 @@ const nextConfig = {
     unoptimized: true,
     formats: ["image/webp"],
     remotePatterns: [
-      { hostname: "yilzicode.com" },
-      { hostname: "paymenthub.yilzicode.com" },
+      { hostname: "kazzah.com" },
+      { hostname: "kazzah-payment.vercel.app" },
     ],
   },
   async headers() {
