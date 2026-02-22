@@ -10,7 +10,7 @@ export default function HeroSection() {
           title={
             <span className="text-balance px-4 md:px-0">
               <span className="bg-gradient-to-r from-cyan-300 via-white to-cyan-300 bg-clip-text text-6xl font-extrabold tracking-tight text-transparent sm:text-7xl md:text-8xl lg:text-9xl">
-                Takok OPO?
+                Kazzah NGL
               </span>
               <br />
               <span className="mt-4 block text-lg font-normal leading-relaxed text-neutral-400 sm:mt-5 sm:text-xl md:text-2xl lg:text-3xl max-w-3xl mx-auto">
