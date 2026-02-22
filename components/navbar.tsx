@@ -31,14 +31,14 @@ const links = [
     icon: (
       <IconBrandTelegram className="h-full w-full text-neutral-300" />
     ),
-    href: "https://t.me/KazzaOfficial",
+    href: "https://t.me/KazzahOfficial",
   },
   {
     title: "WhatsApp",
     icon: (
       <IconBrandWhatsapp className="h-full w-full text-neutral-300" />
     ),
-    href: "https://wa.me/yourdevnumber",
+    href: "https://wa.me/6288286177799",
   },
   {
     title: "Donasi",
@@ -52,14 +52,14 @@ const links = [
     icon: (
       <IconWorld className="h-full w-full text-neutral-300" />
     ),
-    href: "https://yilzicode.com",
+    href: "https://kazzah.com",
   },
   {
     title: "GitHub",
     icon: (
       <IconBrandGithub className="h-full w-full text-neutral-300" />
     ),
-    href: "https://github.com/KingJack2109",
+    href: "https://github.com/KazzahOfc",
   },
 ];
 
